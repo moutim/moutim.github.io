@@ -1,0 +1,41 @@
+body{
+    background-color: #B5BD89;
+    font-size: 18px;
+    font-family: Ubuntu;
+}
+.requisito-1{
+    font-family: monospace;
+}
+strong{
+    color: green;
+}
+em{
+    font-weight: 600;
+    color: #643173;
+}
+.info-1{
+    font-size: 1.6em;
+}
+.info-2{
+    font-size: 1.5em;
+}
+.info-3{
+    font-size: 1.4em;
+}
+.cor-titulos{
+    color: #F4442E;
+}
+ul, ol{
+    line-height: 40px;
+    font-size: 1.5em;
+    list-style: none;
+
+}
+img{
+    border-radius: 10%;
+}
+.bloco-grande{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
