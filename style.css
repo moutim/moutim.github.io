@@ -50,6 +50,10 @@ div img{
 div h1{
     text-align: center;
 }
+div img{
+    padding: 10px;
+    background-color: #0496FF;
+}
 
 
 
