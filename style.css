@@ -15,12 +15,20 @@ em{
 }
 .info-1{
     font-size: 1.6em;
+    background-color:#643173 ;
+    display: inline-block;
+    border-radius: 20px;
+    padding: 10px;
 }
 .info-2{
     font-size: 1.5em;
 }
 .info-3{
     font-size: 1.4em;
+    background-color:#643173 ;
+    display: inline-block;
+    border-radius: 20px;
+    padding: 10px;
 }
 .cor-titulos{
     color: #F4442E;
@@ -55,18 +63,9 @@ div img{
     background-color: #0496FF;
 }
 
-
-
-
-
-
-
-
-
 .ultimo-bloco{
     width: 95%;
     margin: auto;
     position: absolute;
     top: 640px;
-
 }
