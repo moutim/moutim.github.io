@@ -13,22 +13,20 @@ em{
     font-weight: 600;
     color: #EC7505;
 }
-.info-1{
+.ultimo-bloco ul li:nth-of-type(1){
     font-size: 1.6em;
-    background-color:#390099 ;
     display: inline-block;
-    border-radius: 20px;
-    padding: 10px;
+    border-bottom: 3px solid #A62639;
+    border-top: 3px solid #A62639;
 }
-.info-2{
+.ultimo-bloco ul li:nth-of-type(2){
     font-size: 1.5em;
 }
-.info-3{
+.ultimo-bloco ul li:nth-of-type(3){
     font-size: 1.4em;
-    background-color:#390099 ;
     display: inline-block;
-    border-radius: 20px;
-    padding: 10px;
+    border-bottom: 3px solid #A62639;
+    border-top: 3px solid #A62639;
 }
 .cor-titulos{
     color: #A62639;
